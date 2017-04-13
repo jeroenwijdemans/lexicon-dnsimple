@@ -1,6 +1,4 @@
 
-WIP
-
 A docker image that uses dns-01 to get signed let's encrypt certificates.
 
 # tl;dr
@@ -38,13 +36,6 @@ Config directory contains
  - dehydration config for DNSimple needs
  - domains.txt with my domains
  - dehydration hooks.sh with lexicon implementation extended with auth-token
-
-# Handling certificates
-
-TODO handle certificates
-
-After the Dockerfile is run, you end up with a number of certificates.
-I use Kubernetes and add these to the ConfigMap
 
 
 
