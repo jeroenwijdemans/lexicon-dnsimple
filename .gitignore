@@ -1,4 +1,6 @@
 certificates/
 
+config/domains.txt
+
 .idea/
 *.iml
