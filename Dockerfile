@@ -1,6 +1,7 @@
 FROM python:2
 
-# free after Jason Kulatunga <jason@thesparktree.com>
+# Based on https://github.com/AnalogJ/lexicon/blob/master/Dockerfile
+
 MAINTAINER jeroen
 
 # Setup dependencies
